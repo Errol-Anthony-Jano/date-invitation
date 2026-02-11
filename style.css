@@ -1,0 +1,31 @@
+* {
+  * margin: 0;
+  * padding: 0;
+  * box-sizing: border-box;
+}
+
+.box {
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: -1px -1px 30px 0px rgba(0,0,0,0.5);
+    background: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #ffd1dc;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}

@@ -45,6 +45,7 @@ p > span {
   justify-content: center;
   align-items: center;
   background: #ffd1dc;
+  height: 100%;
 }
 
 .buttons {
